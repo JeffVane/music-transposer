@@ -1,3 +1,4 @@
+
 # Music Transposer Pro
 
 🎵 Uma ferramenta para baixar músicas, detectar tonalidade, transpor tom e exportar áudio com qualidade.
@@ -13,3 +14,6 @@
 ```bash
 pip install -r requirements.txt
 python interface.py
+=======
+# music-transposer
+
