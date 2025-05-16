@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.db
+*.log
+.cache/
+*.wav
+*.mp3
+.cache_tonalidades.json
+tons_processados/

@@ -1,0 +1,6 @@
+PyQt6
+librosa
+numpy
+sounddevice
+soundfile
+yt-dlp
